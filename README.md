@@ -10,7 +10,7 @@ Before proceeding, ensure that you have the following prerequisites installed on
 - `Python 3` (for running the script to generate the visual graph)
     - `Plotly` (for generating the visual graph.  Can be installed using `pip install plotly`)
 
-## Generating the Shim and Binary Files
+## USAGE: Generating the Shim and Binary Files
 1. Extract the contents of the provided zip file to a directory of your choice.
 2. Open a terminal and navigate to the extracted directory.
 3. Type `make` and press Enter. This will execute the Makefile and generate the shim and binary files for the application.
